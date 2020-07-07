@@ -6,7 +6,7 @@
     "@material-ui/core": "^1.2.0",
     "@material-ui/icons": "^1.1.0",
     "install": "^0.12.1",
-    "npm": "^6.2.0",
+    "npm": "^6.14.6",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-reveal": "^1.2.2",
